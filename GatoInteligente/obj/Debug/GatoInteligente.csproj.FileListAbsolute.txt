@@ -1,0 +1,9 @@
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\bin\Debug\GatoInteligente.exe.config
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\bin\Debug\GatoInteligente.exe
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\bin\Debug\GatoInteligente.pdb
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\obj\Debug\GatoInteligente.csprojResolveAssemblyReference.cache
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\obj\Debug\GatoInteligente.Form1.resources
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\obj\Debug\GatoInteligente.Properties.Resources.resources
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\obj\Debug\GatoInteligente.csproj.GenerateResource.Cache
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\obj\Debug\GatoInteligente.exe
+c:\users\jonat.desktop-qvdddmn\documents\visual studio 2015\Projects\GatoInteligente\GatoInteligente\obj\Debug\GatoInteligente.pdb
